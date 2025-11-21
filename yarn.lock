@@ -5,12 +5,12 @@ __metadata:
   version: 8
   cacheKey: 10
 
-"@angular/compiler@npm:20.3.12":
-  version: 20.3.12
-  resolution: "@angular/compiler@npm:20.3.12"
+"@angular/compiler@npm:20.3.13":
+  version: 20.3.13
+  resolution: "@angular/compiler@npm:20.3.13"
   dependencies:
     tslib: "npm:^2.3.0"
-  checksum: 10/a8513aee57f395081715fcc45aaa8e6de6a1cbef448a60c24f85b2f958d9cf4ba54051b8de181a0346733386db86f3c907ae86adf249803e6e631f5e9da1675f
+  checksum: 10/1ee405f45292386a94a4a8596ec3b268d40257d579bdb6556034523daad42814770bc685ca1cebecb3c86fb1d7d06973ddd29935068f46c21aaad1ffe317ddef
   languageName: node
   linkType: hard
 
@@ -2836,10 +2836,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"angular-html-parser@npm:10.0.0":
-  version: 10.0.0
-  resolution: "angular-html-parser@npm:10.0.0"
-  checksum: 10/1f64479a6890d2e1d8e3035d515bed2b4e3dfdcb11a4fdd0e7821daa9f134a3e7bee38995bd825e6fe50bd265650a131e4e2787dccd946fc75ec3a5ce4042433
+"angular-html-parser@npm:10.1.1":
+  version: 10.1.1
+  resolution: "angular-html-parser@npm:10.1.1"
+  checksum: 10/ad2995b43fb5c6465e7d1de5f6909f79e08486724997bb3417934c7bc0541e5604f563147a68e18b71eebba57dc61e184cf5d47451ed8b19a4b34d79cecb5f60
   languageName: node
   linkType: hard
 
@@ -6235,9 +6235,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"knip@npm:5.70.0":
-  version: 5.70.0
-  resolution: "knip@npm:5.70.0"
+"knip@npm:5.70.1":
+  version: 5.70.1
+  resolution: "knip@npm:5.70.1"
   dependencies:
     "@nodelib/fs.walk": "npm:^1.2.3"
     fast-glob: "npm:^3.3.3"
@@ -6257,7 +6257,7 @@ __metadata:
   bin:
     knip: bin/knip.js
     knip-bun: bin/knip-bun.js
-  checksum: 10/d52e0c420850ea069d3d7b60e75d7c55f89b58c48f8fa5a69ee75c5d0d7c7d6d07e86b3ba54691fedfe92ed9f74b9e3ba5ff33f706a2c2c628cd708f35e5b734
+  checksum: 10/7e9edafe4c113519cad75197bf72589fc3383b6e2291ec915f75ecd08024423393914089af89fe2cb298bb48419e88a48ab3e84e8635ce9d5379d87cbab69342
   languageName: node
   linkType: hard
 
@@ -7262,7 +7262,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "prettier@workspace:."
   dependencies:
-    "@angular/compiler": "npm:20.3.12"
+    "@angular/compiler": "npm:20.3.13"
     "@babel/code-frame": "npm:8.0.0-beta.3"
     "@babel/generator": "npm:8.0.0-beta.3"
     "@babel/parser": "npm:8.0.0-beta.3"
@@ -7284,7 +7284,7 @@ __metadata:
     acorn: "npm:8.15.0"
     acorn-jsx: "npm:5.3.2"
     angular-estree-parser: "npm:13.1.3"
-    angular-html-parser: "npm:10.0.0"
+    angular-html-parser: "npm:10.1.1"
     browserslist: "npm:4.28.0"
     browserslist-to-esbuild: "npm:2.1.1"
     buffer: "npm:6.0.3"
@@ -7340,7 +7340,7 @@ __metadata:
     jest-watch-typeahead: "npm:3.0.1"
     jsesc: "npm:3.1.0"
     json5: "npm:2.2.3"
-    knip: "npm:5.70.0"
+    knip: "npm:5.70.1"
     leven: "npm:4.1.0"
     linguist-languages: "npm:9.1.0"
     magic-string: "npm:0.30.21"
@@ -7389,7 +7389,7 @@ __metadata:
     vnopts: "npm:2.0.3"
     wcwidth.js: "npm:2.0.0"
     yaml: "npm:1.10.2"
-    yaml-unist-parser: "npm:2.0.5"
+    yaml-unist-parser: "npm:2.1.1"
   bin:
     prettier: ./bin/prettier.cjs
   languageName: unknown
@@ -8989,12 +8989,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yaml-unist-parser@npm:2.0.5":
-  version: 2.0.5
-  resolution: "yaml-unist-parser@npm:2.0.5"
+"yaml-unist-parser@npm:2.1.1":
+  version: 2.1.1
+  resolution: "yaml-unist-parser@npm:2.1.1"
   dependencies:
     yaml: "npm:^1.10.2"
-  checksum: 10/e8b820e7ecc8157ba105b73c1c6d54dda49cfb7ef0dc234c38d1c5d0e57dc83ca04abe70f99171b42709c39cf157f6bbbaeffc5f5631615576390b97a73c9729
+  checksum: 10/683513f5f7e69c2d42408d5316a5a50031c42cb3dbfd98809c8746c29350f7a6116c55532df4212146642d33b5abedfba0be5775304ce477c5d56dfc1204ee60
   languageName: node
   linkType: hard
 
